@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["yo","console","log"],"mappings":";;AAAA;;;;;;AACA,IAAIA,KAAK,QAAT;AACAC,QAAQC,GAAR,CAAYF,EAAZ","file":"index.js","sourcesContent":["import url from \"url\";\r\nlet yo = \"hey yo\";\r\nconsole.log(yo);\r\n"]}
